@@ -7,7 +7,7 @@
 
 <img src="https://img.gamedistribution.com/ec1a0c26ad8444e9b2752e47aed5b9d7-512x512.jpeg" alt="Colored Balls" width="250" height="250">
 
-#####You can try out the game on [the official website](https://simple.game/play/kick-colored-balls/)!
+**You can try out the game on [the official website](https://simple.game/play/kick-colored-balls/)!**
 
 ### Github Copilot
 
