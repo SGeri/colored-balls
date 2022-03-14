@@ -5,6 +5,8 @@
 
 # The Game
 
+![](https://img.shields.io/github/stars/SGeri/colored-balls) ![](https://img.shields.io/github/issues/SGeri/colored-balls) ![](https://img.shields.io/github/forks/SGeri/colored-balls) ![](https://img.shields.io/github/license/SGeri/colored-balls)
+
 <img src="https://img.gamedistribution.com/ec1a0c26ad8444e9b2752e47aed5b9d7-512x512.jpeg" alt="Colored Balls" width="250" height="250">
 
 **You can try out the game on [the official website](https://simple.game/play/kick-colored-balls/)!**
